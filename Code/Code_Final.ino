@@ -7,6 +7,7 @@ LiquidCrystal_I2C lcd(0x27,20,4);  // set the LCD address to 0x27 for a 16 chars
 //Temperature and Humidity Sensor
 dht T_and_H;
 
+
 //Soil Moisture Sensor 
 int soil_sensorPin = A0; 
 int soil_sensorValue;  
