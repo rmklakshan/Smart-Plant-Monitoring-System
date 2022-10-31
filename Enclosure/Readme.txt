@@ -1,0 +1,1 @@
+Final enclosure desing file name is "Enclosure" in the solidworks folder.
